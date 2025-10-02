@@ -52,7 +52,7 @@ The last remaining player with cards wins.
 
 7. **Last Moments**
    - Players can have any last card there is no restriction of no special cards as last card.
-   - 
+     
 ---
 
 ## Game Flow
