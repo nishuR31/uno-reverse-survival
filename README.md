@@ -49,6 +49,10 @@ The last remaining player with cards wins.
 
 6. **Mistake**
    - On mistake like mismatch color, wrong card or mistake number *(regular mistakes)* will result in dumping 2 cards in dump stack
+
+7. **Last Moments**
+   - Players can have any last card there is no restriction of no special cards as last card.
+   - 
 ---
 
 ## Game Flow
