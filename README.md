@@ -75,7 +75,7 @@ It adds tension, strategy, and new dynamics to every match.
 ## Contributors
 
 - Creator - [nishuR31](https://github.com/nishuR31)
-
+- Contributer - [lakshya1304](https://github.com/lakshya1304)
 ---
 
 ### License
