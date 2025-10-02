@@ -38,7 +38,7 @@ The last remaining player with cards wins.
 3. **+ Card Rule (+2, +4)**  
    - When a + card is played, the **next player must give the same amount of cards** (2 or 4) of their choice to the thrower instead of drawing cards.  
    - The thrower **cannot stack cards**: they can only play **one + card per turn**.  
-     Example: Player A plays +2 → Player B plays +2 → Player C must give **4 cards** to Player B.
+     Example: Player A plays +2 → Player B plays +2 → Player C must give **4 cards** to Player B if Player C don't have +2
 
 4. **Skip Card**  
    - The next player must **throw one extra card** when it is their turn. No transfer of punishment, the effect will be consumed immediately and is limited to the next player only.
