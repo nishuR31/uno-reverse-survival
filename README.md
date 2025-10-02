@@ -38,14 +38,14 @@ The last remaining player with cards wins.
 3. **+ Card Rule (+2, +4)**  
    - When a + card is played, the **next player must give the same amount of cards** (2 or 4) of their choice to the thrower instead of drawing cards.  
    - The thrower **cannot stack cards**: they can only play **one + card per turn**.  
-   - Others **can stack**: if another player has a + card of the same type immediately after, they may play it, increasing the card requirement for the next player.  
      Example: Player A plays +2 → Player B plays +2 → Player C must give **4 cards** to Player B.
 
 4. **Skip Card**  
-   - The next player must **throw one extra card** when it is their turn.
+   - The next player must **throw one extra card** when it is their turn. No transfer of punishment, the effect will be consumed immediately and is limited to the next player only.
+     Example: Player A plays skip -> Player B plays two card.
 
 5. **Special Cards (Wild, Reverse)**  
-   - Same effect as in regular UNO.
+   - Same effect as in regular UNO. Just an extra way to survive.
 
 ---
 
