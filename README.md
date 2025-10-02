@@ -1,7 +1,7 @@
 # UNO Reverse Survival
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/nishuR31/uno-reverse-survival)
-![GitHub contributors](https://img.shields.io/github/contributors/nishuR31/uno-reverse-survival)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/nishuR31/uno-reverse-survival?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/nishuR31/uno-reverse-survival?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/nishuR31/uno-reverse-survival?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/nishuR31/uno-reverse-survival?style=social)
 
