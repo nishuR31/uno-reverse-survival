@@ -1,5 +1,7 @@
 # UNO Reverse Survival
 
+### UNO Aazma (Luck dominant)
+
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/nishuR31/uno-reverse-survival?style=social)
 ![GitHub contributors](https://img.shields.io/github/contributors/nishuR31/uno-reverse-survival?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/nishuR31/uno-reverse-survival?style=social)
