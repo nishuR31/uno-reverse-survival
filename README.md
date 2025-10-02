@@ -47,6 +47,8 @@ The last remaining player with cards wins.
 5. **Special Cards (Wild, Reverse)**  
    - Same effect as in regular UNO. Just an extra way to survive.
 
+6. **Mistake**
+   - On mistake like mismatch color, wrong card or mistake number *(regular mistakes)* will result in dumping 2 cards in dump stack
 ---
 
 ## Game Flow
