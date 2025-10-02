@@ -78,6 +78,22 @@ It adds tension, strategy, and new dynamics to every match.
 - Contributer - [lakshya1304](https://github.com/lakshya1304)
 ---
 
+## Age Limit 
+
+* **Official recommendation by Mattel (UNO creator)**: Ages **7+**.
+
+  * Because the game requires some basic number recognition, color matching, and understanding of rules.
+
+* **Younger kids (4–6 years)** can play a simplified version of UNO with fewer rules and fewer cards.
+
+  * Parents sometimes adapt rules so it’s easier for kids to understand.
+
+* **Older kids, teens, and adults**: UNO is popular across all ages because it’s fast, social, and easy to learn.
+
+**Summary**: Officially recommended **7 years and up**, but adaptable for all ages depending on rule complexity.
+
+
+
 ### License
 
 This game variant is open for everyone to play.  
