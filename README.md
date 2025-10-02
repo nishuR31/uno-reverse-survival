@@ -57,6 +57,7 @@ The last remaining player with cards wins.
 2. Special card effects are applied immediately when played.  
 3. No stacking by the thrower.  
 4. Play continues until one player has **no cards left**, ending the game.
+5. All punishments and extra cards must follow the existing uno rules of matching either colour or number.
 
 ---
 
