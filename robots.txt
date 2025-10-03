@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nishuR31.github.io/uno-reverse-survival/sitemap.xml
